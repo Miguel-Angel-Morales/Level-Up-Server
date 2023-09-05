@@ -1,0 +1,28 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Caves and Chimeras",
+            "maker": "Roll & Play Games",
+            "number_of_players": 5,
+            "skill_level": 2,
+            "description": "We are going to play a different version of dungeons and dragons, and it shall be METAL!",
+            "gamer": 1,
+            "game_type": 2
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Chess",
+            "maker": "Mitlon Bradley",
+            "number_of_players": 2,
+            "skill_level": 5,
+            "description": "A classic game of chess, Xavier and I play quite a bit so bring your A game!",
+            "gamer": 1,
+            "game_type": 1
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "organizer": 1,
+            "date": "2023-08-24",
+            "time": "16:00:00",
+            "attendees": [
+                1
+            ],
+            "event_name": "Caves and Chimera's Event",
+            "description": "We will be playing at Erik's house, bring your imagination!",
+            "game": 1
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "organizer": 1,
+            "date": "2023-09-24",
+            "time": "17:00:00",
+            "attendees": [
+                1
+            ],
+            "event_name": "Chess Event",
+            "description": " Xavier is hosting, he has promised no mind reading, bring your A game!",
+            "game": 2
+        }
+    }
+]
